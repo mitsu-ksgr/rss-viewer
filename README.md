@@ -19,6 +19,21 @@ $ ./rssv.rb
 ```
 
 
+## Dev
+### serve sample rss files
+```sh
+$ ./serve.sh
+*** RSS Sample Server ***
+
+- http://localhost:8000/atom.xml
+- http://localhost:8000/rss2.xml
+- http://localhost:8000/rss1.rdf
+
+-------------------------
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+
+```
+
 
 ## Todo
 - Accepts a URL as a commandline argument.
