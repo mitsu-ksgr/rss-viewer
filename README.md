@@ -14,7 +14,7 @@ Just preview the RSS feed.
 
 ### How to install
 ```sh
-$ curl -L http://hogehoge -o ./rssv.rb
+$ curl -L https://raw.githubusercontent.com/mitsu-ksgr/rss-viewer/refs/heads/main/rssv.rb -o ./rssv.rb
 $ ./rssv.rb
 ```
 
